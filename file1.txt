@@ -1,7 +1,16 @@
 somaya
 good morning
 
+<<<<<<< Updated upstream
 adfasfds
+=======
+
+
+=
+
+
+
+>>>>>>> Stashed changes
 new chanIges
 hello world we are learning GIT ***
 
